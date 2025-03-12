@@ -39,7 +39,7 @@ public class Main {
                 }
                 case 5->{
                     opcao = 0;
-                    System.out.println("Saindo....5");
+                    System.out.println("Saindo....");
                     break;
                 }
             }
