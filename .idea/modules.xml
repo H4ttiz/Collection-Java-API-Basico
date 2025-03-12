@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Collection-Java-API-Basico.iml" filepath="$PROJECT_DIR$/.idea/Collection-Java-API-Basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/OperacoesBasicas/Ex01-Lista de Tarefas/Ex01-Lista de Tarefas.iml" filepath="$PROJECT_DIR$/List/OperacoesBasicas/Ex01-Lista de Tarefas/Ex01-Lista de Tarefas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/OperacoesBasicas/Ex02-Carrinho de Compras/Ex02-Carrinho de Compras.iml" filepath="$PROJECT_DIR$/List/OperacoesBasicas/Ex02-Carrinho de Compras/Ex02-Carrinho de Compras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/Pesquisa/Ex03-Catalogo de Livros/Ex03-Catalogo de Livros.iml" filepath="$PROJECT_DIR$/List/Pesquisa/Ex03-Catalogo de Livros/Ex03-Catalogo de Livros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/Pesquisa/Ex04-Soma de Numeros/Ex04-Soma de Numeros.iml" filepath="$PROJECT_DIR$/List/Pesquisa/Ex04-Soma de Numeros/Ex04-Soma de Numeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/Ordenacao/Ex05-Ordenacao de Pessoas/Ex05-Ordenacao de Pessoas.iml" filepath="$PROJECT_DIR$/List/Ordenacao/Ex05-Ordenacao de Pessoas/Ex05-Ordenacao de Pessoas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/Ordenacao/Ex06-Ordenacao de Numeros/Ex06-Ordenacao de Numeros.iml" filepath="$PROJECT_DIR$/List/Ordenacao/Ex06-Ordenacao de Numeros/Ex06-Ordenacao de Numeros.iml" />
+    </modules>
+  </component>
+</project>
