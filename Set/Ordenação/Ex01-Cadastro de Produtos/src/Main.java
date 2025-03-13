@@ -22,7 +22,7 @@ public class Main {
                     long codigo = sc.nextLong();
                     System.out.println("Digite o Preço do produto: ");
                     double preco = sc.nextDouble();
-                    System.out.println("Digite o quantidade do produto: ");
+                    System.out.println("Digite a quantidade do produto: ");
                     int quantidade = sc.nextInt();
                     cadastroProdutos.adicionarProduto(codigo, nome, preco, quantidade);
                     break;
