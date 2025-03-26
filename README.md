@@ -45,3 +45,19 @@ As coleções em Java são essenciais para trabalhar com dados de maneira eficie
 - **Set** é a escolha certa quando você precisa garantir que os elementos não se repitam.
 
 Compreender como usar corretamente essas coleções é fundamental para escrever código eficiente e flexível.
+
+## Autor 
+<table>
+  <tr>
+    <td>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/H4ttiz"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/H4ttiz">
+        <span><b>Leonardo Bezerra da Silva</b></span>
+      </a>
+      <br>
+      <span>Desenvolvedor Back-end</span>
+    </td>
+  </tr>
+</table>
